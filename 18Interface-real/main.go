@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Golang_H/18Interface-real/bank"
+	"Golang-HC/18Interface-real/bank"
 	"fmt"
 )
 
